@@ -26,6 +26,8 @@ Tüm sonuçlara göre bu veri setine en uygun model Logistic Regression'dir
 Bence en iyi model olma sebebi lasso cezalandırma olmasıdır.
 
 SONUÇLAR:
+
+
 <img width="467" height="774" alt="image" src="https://github.com/user-attachments/assets/9cd96ecd-648f-46a9-85d3-af085c824453" />
 
 
